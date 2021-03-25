@@ -1,4 +1,4 @@
 
 var mensaje:string = "Hola mundo en TypeScript";
-
-console.log(mensaje);
+var cambio:string = "Cambio1"
+console.log(mensaje+cambio);
